@@ -1,0 +1,4 @@
+com\njh\hello\spring\cloud\alibaba\nacos\consumer\feign\NacosConsumerFeignApplication.class
+com\njh\hello\spring\cloud\alibaba\nacos\consumer\feign\service\EchoService.class
+com\njh\hello\spring\cloud\alibaba\nacos\consumer\feign\controller\NacosConsumerFeignController.class
+com\njh\hello\spring\cloud\alibaba\nacos\consumer\feign\service\fallback\EchoServiceFallback.class

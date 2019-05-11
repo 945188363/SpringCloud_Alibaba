@@ -1,0 +1,4 @@
+D:\Users\java_workspace\hello-spring-cloud-alibaba\hello-spring-cloud-alibaba-nacos-consumer-feign\src\main\java\com\njh\hello\spring\cloud\alibaba\nacos\consumer\feign\controller\NacosConsumerFeignController.java
+D:\Users\java_workspace\hello-spring-cloud-alibaba\hello-spring-cloud-alibaba-nacos-consumer-feign\src\main\java\com\njh\hello\spring\cloud\alibaba\nacos\consumer\feign\NacosConsumerFeignApplication.java
+D:\Users\java_workspace\hello-spring-cloud-alibaba\hello-spring-cloud-alibaba-nacos-consumer-feign\src\main\java\com\njh\hello\spring\cloud\alibaba\nacos\consumer\feign\service\fallback\EchoServiceFallback.java
+D:\Users\java_workspace\hello-spring-cloud-alibaba\hello-spring-cloud-alibaba-nacos-consumer-feign\src\main\java\com\njh\hello\spring\cloud\alibaba\nacos\consumer\feign\service\EchoService.java
